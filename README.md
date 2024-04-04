@@ -155,7 +155,6 @@ We welcome contributions to enhance the breadth and depth of this repository. If
 <a name="Contact" />
 
 ## Contact
-For any inquiries or suggestions regarding this repository, please don't hesitate to contact us. You can reach us by opening an issue on this repository.
-
+For any inquiries or suggestions regarding this repository, please don't hesitate to contact us by opening an issue on this repository.
 
 Thank you for your interest in the Graph Condensation Papers Repository. We hope you find it valuable for your research and exploration.
