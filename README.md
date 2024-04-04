@@ -73,9 +73,8 @@ The repository is organized into categories to facilitate easy navigation and ex
 + [Graph Condensation via Receptive Field Distribution Matching](https://arxiv.org/abs/2206.13697) (Mengyang Liu et al., 2022)
 + [Kernel Ridge Regression-Based Graph Dataset Distillation](https://dl.acm.org/doi/10.1145/3580305.3599398) (Zhe Xu et al., KDD 2023) [:octocat:](https://github.com/pricexu/KIDD) 
 + [Fast Graph Condensation with Structure-based Neural Tangent Kernel](https://arxiv.org/abs/2310.11046) (Lin Wang et al., 2023) 
-+ [Disentangled Condensation for Large-scale Graphs](https://arxiv.org/abs/2401.12231) [:octocat:](https://github.com/BangHonor/DisCo) (Zhenbang Xiao et al.,2024 ) 
-+ [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://arxiv.org/abs/2402.05962) [:octocat:](https://github.com/MangoKiller/EXGC) (
-Junfeng Fang et al., WWW 2024) 
++ [Disentangled Condensation for Large-scale Graphs](https://arxiv.org/abs/2401.12231) (Zhenbang Xiao et al.,2024) [:octocat:](https://github.com/BangHonor/DisCo)  
++ [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://arxiv.org/abs/2402.05962) (Junfeng Fang et al., WWW 2024) [:octocat:](https://github.com/MangoKiller/EXGC) 
 + [Simple Graph Condensation](https://arxiv.org/abs/2403.14951) (Zhenbang Xiao et al., 2024)
 
 
@@ -86,7 +85,7 @@ Junfeng Fang et al., WWW 2024)
 
 + [Does Graph Distillation See Like Vision Dataset Counterpart?](https://arxiv.org/abs/2310.09192) (Beining Yang & Kai Wang et al., NeurIPS 2023) [:octocat:](https://github.com/RingBDStack/SGDD)
 + [Graph Condensation via Eigenbasis Matching](https://arxiv.org/abs/2310.09202) (Yang Liu et al., 2023) 
-+ [Mirage: Model-Agnostic Graph Distillation for Graph Classification](https://arxiv.org/abs/2310.09486) [:octocat:](https://anonymous.4open.science/r/Mirage) (Mridul Gupta et al., 2023) 
++ [Mirage: Model-Agnostic Graph Distillation for Graph Classification](https://arxiv.org/abs/2310.09486) (Mridul Gupta et al., 2023) [:octocat:](https://anonymous.4open.science/r/Mirage) 
 
 
 
@@ -107,8 +106,8 @@ Junfeng Fang et al., WWW 2024)
 <a name="Graph Continual Learning" />
 
 ### Graph Continual Learning
-+ [CaT: Balanced Continual Graph Learning with Graph Condensation](https://arxiv.org/abs/2309.09455) (Yilun Liu et al., ICDM 2023) [:octocat:](https://github.com/superallen13/CaT-CGL) [:book:](./citations/liu2023cat.txt)
-+ [PUMA: Efficient Continual Graph Learning with Graph Condensation](https://arxiv.org/abs/2312.14439) [:octocat:](https://github.com/superallen13/puma) (Yilun Liu et al., 2023) 
++ [CaT: Balanced Continual Graph Learning with Graph Condensation](https://arxiv.org/abs/2309.09455) (Yilun Liu et al., ICDM 2023) [:octocat:](https://github.com/superallen13/CaT-CGL)
++ [PUMA: Efficient Continual Graph Learning with Graph Condensation](https://arxiv.org/abs/2312.14439) (Yilun Liu et al., 2023) [:octocat:](https://github.com/superallen13/puma)
 
 
 <a name="Hyper-Parameter/Neural Architecture Search" />
@@ -131,7 +130,7 @@ Junfeng Fang et al., WWW 2024)
 <a name="Heterogeneous Graph" />
 
 ### Heterogeneous Graph
-+ [Heterogeneous Graph Condensation](https://ieeexplore.ieee.org/abstract/document/10423255) [:octocat:](https://github.com/jianjianGJ/hgcond) (Jian Gao et al., TKDE 2024) 
++ [Heterogeneous Graph Condensation](https://ieeexplore.ieee.org/abstract/document/10423255) (Jian Gao et al., TKDE 2024) [:octocat:](https://github.com/jianjianGJ/hgcond) 
 
 
 
