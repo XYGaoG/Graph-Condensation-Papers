@@ -8,7 +8,7 @@
 **Graph condensation** (GC) is a data-centric approach that accelerates GNN model training by creating a compact yet representative graph to replace the original graph. It enables GNNs trained on the condensed graph to match the performance of those trained on the original graph.
 
 <p align="center">
-<img src="main.jpg" alt="GC" width="800">
+<img src="main.jpg" alt="GC" width="750">
 </p>
 
 
