@@ -47,12 +47,12 @@ The repository is organized into categories to facilitate easy navigation and ex
     - [Generalized Graph Condensation](#generalized-graph-condensation)
     - [Fair Graph Condensation](#fair-graph-condensation)
     - [Robust Graph Condensation](#robust-graph-condensation)
-    - [Applications](#applications)
-      - [Graph Continual Learning](#graph-continual-learning)
-      - [Hyper-Parameter/Neural Architecture Search](#hyper-parameterneural-architecture-search)
-      - [Federated Learning](#federated-learning)
-      - [Inference Acceleration](#inference-acceleration)
-      - [Heterogeneous Graph](#heterogeneous-graph)
+  - [Applications](#applications)
+    - [Graph Continual Learning](#graph-continual-learning)
+    - [Hyper-Parameter/Neural Architecture Search](#hyper-parameterneural-architecture-search)
+    - [Federated Learning](#federated-learning)
+    - [Inference Acceleration](#inference-acceleration)
+    - [Heterogeneous Graph](#heterogeneous-graph)
   - [Open-Source Libraries](#open-source-libraries)
   - [Related Repositories](#related-repositories)
   - [Contact](#contact)
@@ -77,7 +77,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 |  |  | | |
 |-------------|-------|---------|------|
 | ICLR'22   | [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) | Wei Jin et al. | [code](https://github.com/chandlerbang/gcond) |
-| KBS'23    | [Multiple sparse graphs condensation](https://www.sciencedirect.com/science/article/pii/S0950705123006548) | Jian Gao et al. |  |
+| KBS'23    | [Multiple Sparse Graphs Condensation](https://www.sciencedirect.com/science/article/pii/S0950705123006548) | Jian Gao et al. |  |
 | NeurIPS'23 | [Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data](https://arxiv.org/abs/2306.02664) | Xin Zheng et al. | [code](https://github.com/amanda-zheng/sfgc) |
 | Arxiv'23        | [Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training](https://arxiv.org/abs/2311.15772) | Xinglin Li et al. |  |
 | Arxiv'24        | [Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching](https://arxiv.org/abs/2402.04924) | Tianle Zhang et al. | [code](https://github.com/nus-hpc-ai-lab/ctrl) |
@@ -120,35 +120,38 @@ The repository is organized into categories to facilitate easy navigation and ex
 |-------------|-------|---------|------|
 | Arxiv'24        | [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200) | Xinyi Gao et al. |  |
 
-### Applications
 
-#### Graph Continual Learning
+
+***
+## Applications
+
+### Graph Continual Learning
 
 | |  | |  |
 |-------------|-------|---------|------|
 | ICDM'23   | [CaT: Balanced Continual Graph Learning with Graph Condensation](https://arxiv.org/abs/2309.09455) | Yilun Liu et al. | [code](https://github.com/superallen13/CaT-CGL) |
 | Arxiv'23        | [PUMA: Efficient Continual Graph Learning with Graph Condensation](https://arxiv.org/abs/2312.14439) | Yilun Liu et al. | [code](https://github.com/superallen13/puma) |
 
-#### Hyper-Parameter/Neural Architecture Search
+### Hyper-Parameter/Neural Architecture Search
 
 | |  | |  |
 |-------------|-------|---------|------|
 | Arxiv'23        | [Faster Hyperparameter Search for GNNs via Calibrated Dataset Condensation](https://openreview.net/forum?id=ohQPU2G3r3C) | Mucong Ding et al. |  |
 
-#### Federated Learning
+### Federated Learning
 
 | |  | |  |
 |-------------|-------|---------|------|
 | Arxiv'23        | [FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks](https://arxiv.org/abs/2309.09517) | Qiying Pan et al. |  |
 | Arxiv'24        | [Federated Graph Condensation with Information Bottleneck Principles](https://arxiv.org/abs/2405.03911) | Bo Yan |  |
 
-#### Inference Acceleration
+### Inference Acceleration
 
 | |  | |  |
 |-------------|-------|---------|------|
 | Arxiv'23        | [Graph Condensation for Inductive Node Representation Learning](https://arxiv.org/abs/2307.15967) | Xinyi Gao et al. |  |
 
-#### Heterogeneous Graph
+### Heterogeneous Graph
 
 | |  | |  |
 |-------------|-------|---------|------|
@@ -166,7 +169,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 ***
 ## Related Repositories
 In addition to this Graph Condensation Papers Repository, you may find the following related repositories valuable for your research and exploration:
-+ [awesome-graph-reduction](https://github.com/ChandlerBang/awesome-graph-reduction)
++ [Awesome-graph-reduction](https://github.com/ChandlerBang/awesome-graph-reduction)
 + [Awesome-Graph-Condensation](https://github.com/Frostland12138/Awesome-Graph-Condensation)
 + [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation)
 
