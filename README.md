@@ -31,9 +31,6 @@ We welcome contributions to enhance the breadth and depth of this repository. If
 
 
 ***
-&nbsp;
-&nbsp;
-
 ## Contents
 The repository is organized into categories to facilitate easy navigation and exploration of papers related to graph condensation, including effectiveness, efficiency, generalization, fairness and applications.
 
@@ -61,7 +58,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 ***
 &nbsp;
-&nbsp;
+
 
 ## Survey
 
@@ -73,7 +70,6 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 
 ***
-&nbsp;
 &nbsp;
 
 ## Methodology
@@ -130,7 +126,6 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 ***
 &nbsp;
-&nbsp;
 
 
 ## Applications
@@ -170,7 +165,6 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 ***
 &nbsp;
-&nbsp;
 
 ## Open-Source Libraries
 | Library | Paper | Implementation | #GC Methods | #Datasets | Tasks |
@@ -179,9 +173,10 @@ The repository is organized into categories to facilitate easy navigation and ex
 | [GC-Bench](https://github.com/RingBDStack/GC-Bench)| [[paper]](https://arxiv.org/abs/2407.00615)|PyG | 9 | 12 | Node classification, graph classification, link prediction, node clustering, anomaly detection |
 | [GraphSlim](https://github.com/Emory-Melody/GraphSlim)| [[paper]](https://arxiv.org/abs/2406.16715)|PyG | 7| 5| Node classification | 
 
+
 ***
 &nbsp;
-&nbsp;
+
 
 ## Related Repositories
 In addition to this Graph Condensation Papers Repository, you may find the following related repositories valuable for your research and exploration:
@@ -191,7 +186,6 @@ In addition to this Graph Condensation Papers Repository, you may find the follo
 
 
 ***
-&nbsp;
 &nbsp;
 
 
