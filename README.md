@@ -173,11 +173,11 @@ The repository is organized into categories to facilitate easy navigation and ex
 &nbsp;
 
 ## Open-Source Libraries
-| Library | Implementation | #GC Methods | #Datasets | Tasks |
-|-------------|-------|-------|-------|-------|
-| [GCondenser](https://github.com/superallen13/GCondenser)|  PyG, DGL | 6| 6| Node classification |
-| [GC-Bench](https://github.com/RingBDStack/GC-Bench)| PyG | 9 | 12 | Node classification, graph classification, link prediction, node clustering, anomaly detection |
-| [GraphSlim](https://github.com/Emory-Melody/GraphSlim)| PyG | 7| 5| Node classification | 
+| Library | Paper | Implementation | #GC Methods | #Datasets | Tasks |
+|-------------|-------|-------|-------|-------|--|
+| [GCondenser](https://github.com/superallen13/GCondenser)| [[paper]](https://arxiv.org/abs/2405.14246)| PyG, DGL | 6| 6| Node classification |
+| [GC-Bench](https://github.com/RingBDStack/GC-Bench)| [[paper]](https://arxiv.org/abs/2407.00615)|PyG | 9 | 12 | Node classification, graph classification, link prediction, node clustering, anomaly detection |
+| [GraphSlim](https://github.com/Emory-Melody/GraphSlim)| [[paper]](https://arxiv.org/abs/2406.16715)|PyG | 7| 5| Node classification | 
 
 ***
 &nbsp;
