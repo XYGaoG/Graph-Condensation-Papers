@@ -57,9 +57,6 @@ The repository is organized into categories to facilitate easy navigation and ex
   - [Contact](#contact)
 
 ***
-&nbsp;
-
-
 ## Survey
 
 |   |  |  | 
@@ -68,10 +65,8 @@ The repository is organized into categories to facilitate easy navigation and ex
 | IJCAI'24   | [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/abs/2402.03358) | Mohammad Hashemi & Wei Jin et al. |
 | Arxiv'24   | [A Survey on Graph Condensation](https://arxiv.org/abs/2402.02000) | Hongjia Xu et al. |
 
-
 ***
 &nbsp;
-
 ## Methodology
 
 ### Effective Graph Condensation
@@ -126,8 +121,6 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 ***
 &nbsp;
-
-
 ## Applications
 
 ### Graph Continual Learning
@@ -165,7 +158,6 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 ***
 &nbsp;
-
 ## Open-Source Libraries
 | Library | Paper | Implementation | #GC Methods | #Datasets | Tasks |
 |-------------|-------|-------|-------|-------|--|
@@ -176,8 +168,6 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 ***
 &nbsp;
-
-
 ## Related Repositories
 In addition to this Graph Condensation Papers Repository, you may find the following related repositories valuable for your research and exploration:
 + [Awesome-graph-reduction](https://github.com/ChandlerBang/awesome-graph-reduction)
@@ -187,8 +177,6 @@ In addition to this Graph Condensation Papers Repository, you may find the follo
 
 ***
 &nbsp;
-
-
 ## Contact
 For any inquiries or suggestions regarding this repository, please don't hesitate to contact us by opening an issue on this repository.
 
