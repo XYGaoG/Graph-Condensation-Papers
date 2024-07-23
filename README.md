@@ -202,7 +202,7 @@ Thank you for your interest in the Graph Condensation Papers Repository. We hope
 ```
 @article{gao2024graph,
  title={Graph condensation: A survey},
- author={Gao, Xinyi and Yu, Junliang and Jiang, Wei and Chen, Tong and Zhang, Wentao and Yin, Hongzhi},
+ author={Gao, Xinyi and Yu, Junliang and Chen, Tong and Ye, Guanhua and Zhang, Wentao and Yin, Hongzhi},
  journal={arXiv preprint arXiv:2401.11720},
  year={2024}
 }
