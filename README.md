@@ -20,8 +20,8 @@ For a detailed overview of graph condensation techniques and their applications,
 
 
 ## Latest Updates
+[31/07/2024] [Backdoor Graph Condensation](https://arxiv.org/abs/2407.11025) (Jiahao Wu et al. Arxiv'24)
 [20/07/2024] [TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks](https://arxiv.org/abs/2407.08064) (Yezi Liu et al. Arxiv'24)
-[19/07/2024] [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200) (Xinyi Gao et al. Arxiv'24)
 
 
 
@@ -55,6 +55,7 @@ The repository is organized into categories to facilitate easy navigation and ex
     - [Federated Learning](#federated-learning)
     - [Inference Acceleration](#inference-acceleration)
     - [Heterogeneous Graph](#heterogeneous-graph)
+    - [Backdoor Attack](#backdoor-attack)
   - [Open-Source Libraries](#open-source-libraries)
   - [Related Repositories](#related-repositories)
   - [Contact](#contact)
@@ -169,6 +170,11 @@ The repository is organized into categories to facilitate easy navigation and ex
 |-|-|-|-|-|
 | TKDE'24 |HGCond | [Heterogeneous Graph Condensation](https://ieeexplore.ieee.org/abstract/document/10423255) | Jian Gao et al. | [[code]](https://github.com/jianjianGJ/hgcond) |
 
+### Backdoor Attack
+
+| | | | |
+|-|-|-|-|
+| Arxiv'24 |BGC | [Backdoor Graph Condensation](https://arxiv.org/abs/2407.11025) | Jiahao Wu et al. |
 
 
 ***
@@ -176,7 +182,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 ## Open-Source Libraries
 | Library | Paper | Implementation | #GC Methods | #Datasets | Tasks |
 |-|-|-|-|-|-|
-| [GCondenser](https://github.com/superallen13/GCondenser)| [[paper]](https://arxiv.org/abs/2405.14246)| PyG, DGL | 6| 6| Node classification |
+| [GCondenser](https://github.com/superallen13/GCondenser)| [[paper]](https://arxiv.org/abs/2405.14246)| PyG, DGL | 6| 7| Node classification |
 | [GC-Bench](https://github.com/RingBDStack/GC-Bench)| [[paper]](https://arxiv.org/abs/2407.00615)|PyG | 9 | 12 | Node classification, graph classification, link prediction, node clustering, anomaly detection |
 | [GraphSlim](https://github.com/Emory-Melody/GraphSlim)| [[paper]](https://arxiv.org/abs/2406.16715)|PyG | 7| 5| Node classification | 
 
