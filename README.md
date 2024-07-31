@@ -20,7 +20,7 @@ For a detailed overview of graph condensation techniques and their applications,
 
 
 ## Latest Updates
-[31/07/2024] [Backdoor Graph Condensation](https://arxiv.org/abs/2407.11025) (Jiahao Wu et al. Arxiv'24)
+[31/07/2024] [Backdoor Graph Condensation](https://arxiv.org/abs/2407.11025) (Jiahao Wu et al. Arxiv'24)  
 [20/07/2024] [TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks](https://arxiv.org/abs/2407.08064) (Yezi Liu et al. Arxiv'24)
 
 
