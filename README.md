@@ -20,6 +20,7 @@ For a detailed overview of graph condensation techniques and their applications,
 
 
 ## Latest Updates
+[27/11/2024] [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063) (Xinyi Gao et al. Arxiv'24)  
 [05/09/2024] [GSTAM: Efficient Graph Distillation with Structural Attention-Matching](https://arxiv.org/abs/2408.16871) (Arash Rasti-Meymandi et al. ECCV'24)  
 [28/08/2024] [Self-Supervised Learning for Graph Dataset Condensation](https://dl.acm.org/doi/10.1145/3637528.3671682) (Yuxiang Wang et al. KDD'24)  
 [31/07/2024] [Backdoor Graph Condensation](https://arxiv.org/abs/2407.11025) (Jiahao Wu et al. Arxiv'24)  
@@ -118,8 +119,10 @@ The repository is organized into categories to facilitate easy navigation and ex
 | | | | | |
 |-|-|-|-|-|
 | NeurIPS'23| SGDD| [Does Graph Distillation See Like Vision Dataset Counterpart?](https://arxiv.org/abs/2310.09192) | Beining Yang et al. | [[code]](https://github.com/RingBDStack/SGDD) |
-| ICML'24 | GCEM| [Graph Condensation via Eigenbasis Matching](https://arxiv.org/abs/2310.09202) | Yang Liu et al. | |
+| ICML'24 | GDEM| [Graph Distillation with Eigenbasis Matching](https://arxiv.org/abs/2310.09202) | Yang Liu et al. | |
 | KDD'24 | OpenGC | [Graph Condensation for Open-World Graph Learning](https://arxiv.org/abs/2405.17003) | Xinyi Gao et al. | |
+| Arxiv'24 | CTGC | [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063) | Xinyi Gao et al. | |
+
 
 ### Fair Graph Condensation
 
