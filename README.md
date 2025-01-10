@@ -20,6 +20,8 @@ For a detailed overview of graph condensation techniques and their applications,
 
 
 ## Latest Updates
+[09/01/2025] [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) (Lin Wang et al. Arxiv'25)  
+[09/01/2025] [GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection](https://arxiv.org/abs/2501.02796) (Saba Fathi Rabooki et al. Arxiv'25)  
 [27/11/2024] [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063) (Xinyi Gao et al. Arxiv'24)  
 [05/09/2024] [GSTAM: Efficient Graph Distillation with Structural Attention-Matching](https://arxiv.org/abs/2408.16871) (Arash Rasti-Meymandi et al. ECCV'24)  
 [28/08/2024] [Self-Supervised Learning for Graph Dataset Condensation](https://dl.acm.org/doi/10.1145/3637528.3671682) (Yuxiang Wang et al. KDD'24)  
@@ -58,7 +60,7 @@ The repository is organized into categories to facilitate easy navigation and ex
     - [Federated Learning](#federated-learning)
     - [Inference Acceleration](#inference-acceleration)
     - [Heterogeneous Graph](#heterogeneous-graph)
-    - [Backdoor Attack](#backdoor-attack)
+    - [Security](#security)
   - [Open-Source Libraries](#open-source-libraries)
   - [Related Repositories](#related-repositories)
   - [Contact](#contact)
@@ -110,7 +112,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | WWW'24 | EXGC | [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://arxiv.org/abs/2402.05962) | Junfeng Fang et al. | [[code]](https://github.com/MangoKiller/EXGC) |
 | Arxiv'24 | SimGC | [Simple Graph Condensation](https://arxiv.org/abs/2403.14951) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/SimGC) |
 | Arxiv'24 | CGC | [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707) | Xinyi Gao et al. | |
-
+| Arxiv'25 | GCGP | [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) | Lin Wang et al. | [[code]](https://github.com/WANGLin0126/GCGP) |
 
 
 
@@ -175,11 +177,12 @@ The repository is organized into categories to facilitate easy navigation and ex
 |-|-|-|-|-|
 | TKDE'24 |HGCond | [Heterogeneous Graph Condensation](https://ieeexplore.ieee.org/abstract/document/10423255) | Jian Gao et al. | [[code]](https://github.com/jianjianGJ/hgcond) |
 
-### Backdoor Attack
+### Security
 
 | | | | |
 |-|-|-|-|
 | Arxiv'24 |BGC | [Backdoor Graph Condensation](https://arxiv.org/abs/2407.11025) | Jiahao Wu et al. |
+| Arxiv'25 |GraphDART | [GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection](https://arxiv.org/abs/2501.02796) | Saba Fathi Rabooki et al. |
 
 
 ***
