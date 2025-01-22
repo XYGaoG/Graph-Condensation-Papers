@@ -112,7 +112,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | Arxiv'24 | DisCo | [Disentangled Condensation for Large-scale Graphs](https://arxiv.org/abs/2401.12231) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/DisCo) |
 | WWW'24 | EXGC | [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://arxiv.org/abs/2402.05962) | Junfeng Fang et al. | [[code]](https://github.com/MangoKiller/EXGC) |
 | Arxiv'24 | SimGC | [Simple Graph Condensation](https://arxiv.org/abs/2403.14951) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/SimGC) |
-| Arxiv'24 | CGC | [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707) | Xinyi Gao et al. | |
+| WWW'25 | CGC | [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707) | Xinyi Gao et al. | [[code]](https://github.com/XYGaoG/CGC) |
 | Arxiv'25 | GCGP | [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) | Lin Wang et al. | [[code]](https://github.com/WANGLin0126/GCGP) |
 
 
