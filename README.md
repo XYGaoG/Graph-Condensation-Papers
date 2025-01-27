@@ -73,7 +73,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 
 | | | | 
 |-|-|-|
-| Arxiv'24 | [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) | Xinyi Gao et al. |
+| TKDE'25 | [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) | Xinyi Gao et al. |
 | IJCAI'24 | [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/abs/2402.03358) | Mohammad Hashemi & Wei Jin et al. |
 | Arxiv'24 | [A Survey on Graph Condensation](https://arxiv.org/abs/2402.02000) | Hongjia Xu et al. |
 
