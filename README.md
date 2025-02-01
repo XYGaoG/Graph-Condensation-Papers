@@ -20,7 +20,7 @@ For a detailed overview of graph condensation techniques and their applications,
 
 
 ## Latest Updates
-[01/02/2025] [Random Walk Guided Hyperbolic Graph Distillation](https://arxiv.org/abs/2501.15696) (Yunbo Long et al. Arxiv'25)
+[01/02/2025] [Random Walk Guided Hyperbolic Graph Distillation](https://arxiv.org/abs/2501.15696) (Yunbo Long et al. Arxiv'25)  
 [09/01/2025] [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) (Lin Wang et al. Arxiv'25)  
 [09/01/2025] [GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection](https://arxiv.org/abs/2501.02796) (Saba Fathi Rabooki et al. Arxiv'25)  
 [09/01/2025] [Training-free Heterogeneous Graph Condensation via Data Selection](https://arxiv.org/abs/2412.16250) (Yuxuan Liang et al. ICDE'25)  
