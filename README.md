@@ -20,6 +20,7 @@ For a detailed overview of graph condensation techniques and their applications,
 
 
 ## Latest Updates
+[01/02/2025] [Random Walk Guided Hyperbolic Graph Distillation](https://arxiv.org/abs/2501.15696) (Yunbo Long et al. Arxiv'25)
 [09/01/2025] [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) (Lin Wang et al. Arxiv'25)  
 [09/01/2025] [GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection](https://arxiv.org/abs/2501.02796) (Saba Fathi Rabooki et al. Arxiv'25)  
 [09/01/2025] [Training-free Heterogeneous Graph Condensation via Data Selection](https://arxiv.org/abs/2412.16250) (Yuxuan Liang et al. ICDE'25)  
@@ -98,6 +99,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | Arxiv'24| TinyGraph | [TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks](https://arxiv.org/abs/2407.08064) | Yezi Liu et al. | |
 | KDD'24| SGDC | [Self-Supervised Learning for Graph Dataset Condensation](https://dl.acm.org/doi/10.1145/3637528.3671682) | Yuxiang Wang et al. | [[code]](https://github.com/wyx11112/SGDC) |  
 | ECCV'24| GSTAM | [GSTAM: Efficient Graph Distillation with Structural Attention-Matching](https://arxiv.org/abs/2408.16871) | Arash Rasti-Meymandi et al. | [[code]](https://github.com/arashrasti96/GSTAM) |  
+| Arxiv'25| HyDRO | [Random Walk Guided Hyperbolic Graph Distillation](https://arxiv.org/abs/2501.15696) | Yunbo Long et al. | |  
 
 
 ### Efficient Graph Condensation
