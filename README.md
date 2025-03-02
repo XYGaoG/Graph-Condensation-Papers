@@ -26,11 +26,11 @@ For a detailed overview of graph condensation techniques and their applications,
 [09/01/2025] [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) (Lin Wang et al. Arxiv'25)  
 [09/01/2025] [GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection](https://arxiv.org/abs/2501.02796) (Saba Fathi Rabooki et al. Arxiv'25)  
 [09/01/2025] [Training-free Heterogeneous Graph Condensation via Data Selection](https://arxiv.org/abs/2412.16250) (Yuxuan Liang et al. ICDE'25)  
-[27/11/2024] [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063) (Xinyi Gao et al. Arxiv'24)  
-[05/09/2024] [GSTAM: Efficient Graph Distillation with Structural Attention-Matching](https://arxiv.org/abs/2408.16871) (Arash Rasti-Meymandi et al. ECCV'24)  
+<!-- [27/11/2024] [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063) (Xinyi Gao et al. Arxiv'24)   -->
+<!-- [05/09/2024] [GSTAM: Efficient Graph Distillation with Structural Attention-Matching](https://arxiv.org/abs/2408.16871) (Arash Rasti-Meymandi et al. ECCV'24)  
 [28/08/2024] [Self-Supervised Learning for Graph Dataset Condensation](https://dl.acm.org/doi/10.1145/3637528.3671682) (Yuxiang Wang et al. KDD'24)  
 [31/07/2024] [Backdoor Graph Condensation](https://arxiv.org/abs/2407.11025) (Jiahao Wu et al. Arxiv'24)  
-[20/07/2024] [TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks](https://arxiv.org/abs/2407.08064) (Yezi Liu et al. Arxiv'24)
+[20/07/2024] [TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks](https://arxiv.org/abs/2407.08064) (Yezi Liu et al. Arxiv'24) -->
 
 
 
