@@ -20,6 +20,7 @@ For a detailed overview of graph condensation techniques and their applications,
 
 
 ## Latest Updates
+[02/03/2025] [Scalable Graph Condensation with Evolving Capabilities](https://arxiv.org/abs/2502.17614) (Shengbo Gong et al. Arxiv'25)  
 [02/02/2025] [Exploring Hypergraph Condensation via Variational Hyperedge Generation and Multi-Aspectual Amelioration](https://openreview.net/forum?id=bdaJGj9LPc#discussion) (Zheng Gong et al. WWW'25)  
 [01/02/2025] [Random Walk Guided Hyperbolic Graph Distillation](https://arxiv.org/abs/2501.15696) (Yunbo Long et al. Arxiv'25)  
 [09/01/2025] [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) (Lin Wang et al. Arxiv'25)  
@@ -63,6 +64,7 @@ The repository is organized into categories to facilitate easy navigation and ex
     - [Federated Learning](#federated-learning)
     - [Inference Acceleration](#inference-acceleration)
     - [Heterogeneous Graph](#heterogeneous-graph)
+    - [Hypergraph Graph](#hypergraph-graph)
     - [Security](#security)
   - [Open-Source Libraries](#open-source-libraries)
   - [Related Repositories](#related-repositories)
@@ -117,6 +119,8 @@ The repository is organized into categories to facilitate easy navigation and ex
 | Arxiv'24 | SimGC | [Simple Graph Condensation](https://arxiv.org/abs/2403.14951) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/SimGC) |
 | WWW'25 | CGC | [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707) | Xinyi Gao et al. | [[code]](https://github.com/XYGaoG/CGC) |
 | Arxiv'25 | GCGP | [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) | Lin Wang et al. | [[code]](https://github.com/WANGLin0126/GCGP) |
+| Arxiv'25 | GECC | [Scalable Graph Condensation with Evolving Capabilities](https://arxiv.org/abs/2502.17614) | Shengbo Gong et al. | |  
+
 
 
 
