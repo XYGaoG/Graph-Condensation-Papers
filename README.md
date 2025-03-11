@@ -15,7 +15,7 @@
 
 This repository aims to provide a comprehensive resource for researchers and practitioners interested in exploring various aspects of graph condensation.
 
-For a detailed overview of graph condensation techniques and their applications, we recommend reading our survey paper on **TKDE'25**: 🔥[Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) and attend the tutorial on **WWW'25**🔥[Graph Condensation: Foundations, Methods and Prospects](https://xygaog.github.io/WWW25tut/). The survey paper serves as an excellent starting point for understanding the fundamentals of graph condensation and exploring its diverse applications.
+For a detailed overview of graph condensation techniques and their applications, we recommend reading our survey paper on **TKDE'25**: 🔥[Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) and attending our tutorial on **WWW'25**🔥[Graph Condensation: Foundations, Methods and Prospects](https://xygaog.github.io/WWW25tut/). The survey paper serves as an excellent starting point for understanding the fundamentals of graph condensation and exploring its diverse applications.
 
 
 
