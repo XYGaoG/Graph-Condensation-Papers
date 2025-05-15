@@ -132,7 +132,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | KDD'23 | KIDD | [Kernel Ridge Regression-Based Graph Dataset Distillation](https://dl.acm.org/doi/10.1145/3580305.3599398) | Zhe Xu et al. | [[code]](https://github.com/pricexu/KIDD) |
 | WWW'24 | GC-SNTK | 📌[Fast Graph Condensation with Structure-based Neural Tangent Kernel](https://arxiv.org/abs/2310.11046) | Lin Wang et al. | |
 | ICLR'24 | Mirage | 📌[Mirage: Model-Agnostic Graph Distillation for Graph Classification](https://arxiv.org/abs/2310.09486) | Mridul Gupta et al. | [[code]](https://github.com/idea-iitd/Mirage) |
-| WWW'25 | DisCo | [Disentangled Condensation for Large-scale Graphs](https://arxiv.org/abs/2401.12231) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/DisCo) |
+| WWW'25 | DisCo | 📌[Disentangled Condensation for Large-scale Graphs](https://arxiv.org/abs/2401.12231) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/DisCo) |
 | WWW'24 | EXGC | [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://arxiv.org/abs/2402.05962) | Junfeng Fang et al. | [[code]](https://github.com/MangoKiller/EXGC) |
 | PKDD'24 | SimGC | [Simple Graph Condensation](https://arxiv.org/abs/2403.14951) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/SimGC) |
 | Arxiv'25 | GCGP | [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) | Lin Wang et al. | [[code]](https://github.com/WANGLin0126/GCGP) |
@@ -147,7 +147,7 @@ The repository is organized into categories to facilitate easy navigation and ex
 | NeurIPS'23| SGDD| [Does Graph Distillation See Like Vision Dataset Counterpart?](https://arxiv.org/abs/2310.09192) | Beining Yang et al. | [[code]](https://github.com/RingBDStack/SGDD) |
 | ICML'24 | GDEM| 📌[Graph Distillation with Eigenbasis Matching](https://arxiv.org/abs/2310.09202) | Yang Liu et al. | [[code]](https://github.com/BUPT-GAMMA/GDEM)|
 | KDD'24 | OpenGC | [Graph Condensation for Open-World Graph Learning](https://arxiv.org/abs/2405.17003) | Xinyi Gao et al. | |
-| Arxiv'24 | CTGC | [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063) | Xinyi Gao et al. | |
+| KDD'25 | CTGC | [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063) | Xinyi Gao et al. | |
 | ICLR'25 | ST-GCond | 📌[ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/forum?id=wYWJFLQov9) | Beining Yang et al. | [[code]](https://github.com/RingBDStack/ST-GCond)|   
 
 ### Fair Graph Condensation
