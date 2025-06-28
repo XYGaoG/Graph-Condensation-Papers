@@ -15,15 +15,23 @@
 
 This repository aims to provide a comprehensive resource for researchers and practitioners interested in exploring various aspects of graph condensation.
 
-For a detailed overview of graph condensation techniques and their applications, we recommend reading our survey paper on **TKDE'25**: 🔥[Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) and our tutorial at **WWW'25**: 🔥[Graph Condensation: Foundations, Methods and Prospects](https://xygaog.github.io/WWW25tut/). The survey paper serves as an excellent starting point for understanding the fundamentals of graph condensation and exploring its diverse applications.
+For a detailed overview of graph condensation techniques and their applications, we recommend reading our survey paper on **TKDE'25**: 🔥[Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) and our tutorial at **WWW'25**: [Graph Condensation: Foundations, Methods and Prospects](https://xygaog.github.io/WWW25tut/). The survey paper serves as an excellent starting point for understanding the fundamentals of graph condensation and exploring its diverse applications.
+
+
+To understand the underlying mechanism of optimization strategies in graph condensation, we highly recommend the paper 🔥🔥🔥[Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707) as essential reading.
+
 
 
 **Note: recommended papers are marked by 📌.**
 
 
+
 ## Latest Updates
-
-
+Dynamic Graph Condensation
+[28/06/2025] [Dynamic Graph Condensation](https://arxiv.org/abs/2506.13099) (Dong Chen et al. ArXiv'25) 
+[28/06/2025] [Simple yet Effective Graph Distillation via Clustering](https://arxiv.org/pdf/2505.20807) (Yurui Lai et al. ArXiv'25) 
+[28/06/2025] [GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) (Yue Zhang et al. PAKDD'25)  
+[28/06/2025] [Adapting Precomputed Features for Efficient Graph Condensation](https://openreview.net/forum?id=ThK6o74QLc) (Yuan Li et al. ICML'25)  
 [11/05/2025] [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/forum?id=wYWJFLQov9) (Beining Yang et al. ICLR'25)  
 [11/05/2025] [Bonsai: Gradient-free Graph Condensation for Node Classification](https://openreview.net/forum?id=5x88lQ2MsH) (Mridul Gupta et al. ICLR'25)  
 [11/05/2025] [Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck](https://ojs.aaai.org/index.php/AAAI/article/view/33832) (Xingcheng Fu et al. AAAI'25)  
@@ -67,6 +75,7 @@ The repository is organized into categories to facilitate easy navigation and ex
   - [Contribution](#contribution)
   - [Contents](#contents)
   - [Survey](#survey)
+  - [Tutorial](#tutorial)
   - [Methodology](#methodology)
     - [Effective Graph Condensation](#effective-graph-condensation)
     - [Efficient Graph Condensation](#efficient-graph-condensation)
@@ -81,6 +90,7 @@ The repository is organized into categories to facilitate easy navigation and ex
     - [Heterogeneous Graph](#heterogeneous-graph)
     - [Hypergraph Graph](#hypergraph-graph)
     - [Signed Graph](#signed-graph)
+    - [Dynamic Graph](#dynamic-graph)
     - [Security](#security)
   - [Open-Source Libraries](#open-source-libraries)
   - [Related Repositories](#related-repositories)
@@ -100,7 +110,12 @@ The repository is organized into categories to facilitate easy navigation and ex
 | TKDD'25 | [Learning to Reduce the Scale of Large Graphs: A Comprehensive Survey](https://dl.acm.org/doi/abs/10.1145/3729427) | Hongjia Xu et al. |
 
 
+***
+## Tutorial
 
+| | | ||
+|-|-|-|-|
+| WWW'25 | 📌[Graph Condensation: Foundations, Methods and Prospects](https://dl.acm.org/doi/10.1145/3701716.3715862) | Hongzhi Yin, Xinyi Gao et al. | [[Website]](https://xygaog.github.io/WWW25tut/) |
 
 ***
 &nbsp;
@@ -117,11 +132,11 @@ The repository is organized into categories to facilitate easy navigation and ex
 | Arxiv'24| CTRL | [Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching](https://arxiv.org/abs/2402.04924) | Tianle Zhang et al. | [[code]](https://github.com/nus-hpc-ai-lab/ctrl) |
 | ICML'24| GEOM | 📌[Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011) | Yuchen Zhang et al. | [[code]](https://github.com/nus-hpc-ai-lab/geom) |
 | KDD'24| GCSR | [Graph Data Condensation via Self-expressive Graph Structure Reconstruction](https://arxiv.org/abs/2403.07294) | Zhanyu Liu et al. | [[code]](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0) |
-| Arxiv'24| TinyGraph | [TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks](https://arxiv.org/abs/2407.08064) | Yezi Liu et al. | |
 | KDD'24| SGDC | 📌[Self-Supervised Learning for Graph Dataset Condensation](https://dl.acm.org/doi/10.1145/3637528.3671682) | Yuxiang Wang et al. | [[code]](https://github.com/wyx11112/SGDC) |  
 | ECCV'24| GSTAM | [GSTAM: Efficient Graph Distillation with Structural Attention-Matching](https://arxiv.org/abs/2408.16871) | Arash Rasti-Meymandi et al. | [[code]](https://github.com/arashrasti96/GSTAM) |  
 | Arxiv'25| HyDRO | [Random Walk Guided Hyperbolic Graph Distillation](https://arxiv.org/abs/2501.15696) | Yunbo Long et al. | |  
 | AAAI'25| BiMSGC | [Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck](https://ojs.aaai.org/index.php/AAAI/article/view/33832) | Xingcheng Fu et al. | |   
+| WWW'25| TinyGraph | [Beyond Node Condensation: Learning Tiny Graphs via Joint Graph Condensation](https://dl.acm.org/doi/abs/10.1145/3701716.3715566) | Yezi Liu et al. | |
 
 ### Efficient Graph Condensation
 
@@ -130,15 +145,19 @@ The repository is organized into categories to facilitate easy navigation and ex
 | KDD'22 | DosCond | [Condensing Graphs via One-Step Gradient Matching](https://arxiv.org/abs/2206.07746) | Wei Jin et al. | [[code]](https://github.com/amazon-research/DosCond) |
 | Arxiv'22 | GCDM | 📌[Graph Condensation via Receptive Field Distribution Matching](https://arxiv.org/abs/2206.13697) | Mengyang Liu et al. | |
 | KDD'23 | KIDD | [Kernel Ridge Regression-Based Graph Dataset Distillation](https://dl.acm.org/doi/10.1145/3580305.3599398) | Zhe Xu et al. | [[code]](https://github.com/pricexu/KIDD) |
-| WWW'24 | GC-SNTK | 📌[Fast Graph Condensation with Structure-based Neural Tangent Kernel](https://arxiv.org/abs/2310.11046) | Lin Wang et al. | |
-| ICLR'24 | Mirage | 📌[Mirage: Model-Agnostic Graph Distillation for Graph Classification](https://arxiv.org/abs/2310.09486) | Mridul Gupta et al. | [[code]](https://github.com/idea-iitd/Mirage) |
-| WWW'25 | DisCo | 📌[Disentangled Condensation for Large-scale Graphs](https://arxiv.org/abs/2401.12231) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/DisCo) |
+| WWW'24 | GC-SNTK | [Fast Graph Condensation with Structure-based Neural Tangent Kernel](https://arxiv.org/abs/2310.11046) | Lin Wang et al. | |
+| ICLR'24 | Mirage | [Mirage: Model-Agnostic Graph Distillation for Graph Classification](https://arxiv.org/abs/2310.09486) | Mridul Gupta et al. | [[code]](https://github.com/idea-iitd/Mirage) |
+| WWW'25 | DisCo | [Disentangled Condensation for Large-scale Graphs](https://arxiv.org/abs/2401.12231) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/DisCo) |
 | WWW'24 | EXGC | [EXGC: Bridging Efficiency and Explainability in Graph Condensation](https://arxiv.org/abs/2402.05962) | Junfeng Fang et al. | [[code]](https://github.com/MangoKiller/EXGC) |
 | PKDD'24 | SimGC | [Simple Graph Condensation](https://arxiv.org/abs/2403.14951) | Zhenbang Xiao et al. | [[code]](https://github.com/BangHonor/SimGC) |
-| Arxiv'25 | GCGP | [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) | Lin Wang et al. | [[code]](https://github.com/WANGLin0126/GCGP) |
-| Arxiv'25 | GECC | [Scalable Graph Condensation with Evolving Capabilities](https://arxiv.org/abs/2502.17614) | Shengbo Gong et al. | |  
-| ICLR'25 | Bonsai | [Bonsai: Gradient-free Graph Condensation for Node Classification](https://openreview.net/forum?id=5x88lQ2MsH) | Mridul Gupta et al. | [[code]](https://github.com/idea-iitd/Bonsai)|   
 | WWW'25 | CGC | 📌[Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707) | Xinyi Gao et al. | [[code]](https://github.com/XYGaoG/CGC) |   
+| Arxiv'25 | GCGP | [Efficient Graph Condensation via Gaussian Process](https://arxiv.org/abs/2501.02565) | Lin Wang et al. | [[code]](https://github.com/WANGLin0126/GCGP) |   
+| Arxiv'25 | GECC | [Scalable Graph Condensation with Evolving Capabilities](https://arxiv.org/abs/2502.17614) | Shengbo Gong et al. | |     
+| ICLR'25 | Bonsai | [Bonsai: Gradient-free Graph Condensation for Node Classification](https://openreview.net/forum?id=5x88lQ2MsH) | Mridul Gupta et al. | [[code]](https://github.com/idea-iitd/Bonsai)|      
+| ICML'25 | GCPA | [Adapting Precomputed Features for Efficient Graph Condensation](https://openreview.net/forum?id=ThK6o74QLc) | Yuan Li et al. | [[code]](https://github.com/Xtra-Computing/GCPA)|      
+| KDD'25 | ClustGDD | [Simple yet Effective Graph Distillation via Clustering](https://arxiv.org/abs/2505.20807) | Yurui Lai et al. | |   
+| PAKDD '25 | GDCK | [GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) | Yue Zhang et al. |[[code]](https://github.com/SchenbergZY/GDCK)|      
+
 
 ### Generalized Graph Condensation
 
@@ -218,7 +237,11 @@ The repository is organized into categories to facilitate easy navigation and ex
 |-|-|-|-|-|
 | AAAI'25 |SGSGC | [Structure Balance and Gradient Matching-Based Signed Graph Condensation](https://ojs.aaai.org/index.php/AAAI/article/view/33320) | Rong Li et al. | |
 
+### Dynamic Graph
 
+| | | | | |
+|-|-|-|-|-|
+| ArXiv'25 |DyGC | [Dynamic Graph Condensation](https://arxiv.org/abs/2506.13099) | Dong Chen et al. | |
 
 ### Security
 
