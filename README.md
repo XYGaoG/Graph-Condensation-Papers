@@ -28,7 +28,7 @@ To understand the underlying mechanism of optimization strategies in graph conde
 
 ## Latest Updates
 [28/06/2025] [Dynamic Graph Condensation](https://arxiv.org/abs/2506.13099) (Dong Chen et al. ArXiv'25)     
-[28/06/2025] [Simple yet Effective Graph Distillation via Clustering](https://arxiv.org/pdf/2505.20807) (Yurui Lai et al. ArXiv'25)       
+[28/06/2025] [Simple yet Effective Graph Distillation via Clustering](https://arxiv.org/pdf/2505.20807) (Yurui Lai et al. KDD'25)       
 [28/06/2025] [GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) (Yue Zhang et al. PAKDD'25)  
 [28/06/2025] [Adapting Precomputed Features for Efficient Graph Condensation](https://openreview.net/forum?id=ThK6o74QLc) (Yuan Li et al. ICML'25)  
 [11/05/2025] [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/forum?id=wYWJFLQov9) (Beining Yang et al. ICLR'25)  
