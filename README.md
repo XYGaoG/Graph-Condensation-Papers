@@ -154,8 +154,10 @@ The repository is organized into categories to facilitate easy navigation and ex
 | Arxiv'25 | GECC | [Scalable Graph Condensation with Evolving Capabilities](https://arxiv.org/abs/2502.17614) | Shengbo Gong et al. | |     
 | ICLR'25 | Bonsai | [Bonsai: Gradient-free Graph Condensation for Node Classification](https://openreview.net/forum?id=5x88lQ2MsH) | Mridul Gupta et al. | [[code]](https://github.com/idea-iitd/Bonsai)|      
 | ICML'25 | GCPA | [Adapting Precomputed Features for Efficient Graph Condensation](https://openreview.net/forum?id=ThK6o74QLc) | Yuan Li et al. | [[code]](https://github.com/Xtra-Computing/GCPA)|      
-| KDD'25 | ClustGDD | [Simple yet Effective Graph Distillation via Clustering](https://arxiv.org/abs/2505.20807) | Yurui Lai et al. | |   
+| KDD'25 | ClustGDD | [Simple yet Effective Graph Distillation via Clustering](https://arxiv.org/abs/2505.20807) | Yurui Lai et al. | [[code]](https://github.com/HKBU-LAGAS/ClustGDD)|   
 | PAKDD '25 | GDCK | [GDCK: Efficient Large-Scale Graph Distillation Utilizing a Model-Free Kernelized Approach](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_19) | Yue Zhang et al. |[[code]](https://github.com/SchenbergZY/GDCK)|      
+
+
 
 
 ### Generalized Graph Condensation
